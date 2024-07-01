@@ -64,5 +64,5 @@ const playerRun = computed(() => {
     player.value = 1;
   }
   return player.value;
-});
+}); //test
 </script>
